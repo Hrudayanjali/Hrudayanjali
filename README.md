@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hrudayanjali, currently in the final year of my undergraduate studies.
-- 👀 I’m interested in learning trading, BasketBall.
-- 🌱 I’m currently learning how to do data analysis using python, excel and SQL.
+- 👋 Hi, I’m @Hrudayanjali
+- 👀 I’m interested in solving sudokus and BasketBall.
+- 🌱 I’m currently imrpoving my knowledge on coding and how to do data analysis using python and SQL.
 - 💞️ I’m looking forward to solving as many case studies as possible to gain expertise in the subject. And would like to collaborate with anyone who is looking for a project partner.
 - 📫 You can reach me at hrudayanjali02@gmail.com
 
